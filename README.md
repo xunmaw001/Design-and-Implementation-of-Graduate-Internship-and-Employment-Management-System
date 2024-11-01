@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-Graduate-Internship-and-Employment-Management-System
+基于Springboot+Vue的毕业生实习与就业管理系统，是一款专为毕业生、高校及企业设计的综合性管理平台。系统采用Java语言开发，结合了Springboot框架的快速开发能力和Vue框架的组件化设计思想，实现了前后端分离的开发模式。系统具有管理员、学生和企业三大角色，提供个人信息修改、招聘信息管理、实习管理、问卷调查等功能，旨在优化就业管理流程，提升就业服务效率与质量，为毕业生提供更加便捷、高效的求职渠道，同时帮助企业更精准地招募到合适的人才。
